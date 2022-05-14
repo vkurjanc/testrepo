@@ -1,3 +1,3 @@
 # testrepo
 
-#Editing a file for IBM course
+#Editing the file for IBM course
